@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dataFromTheAPI</string>
+    <string name="info">Инфоомация о погоде:</string>
+    <string name="temp">Температура:</string>
+    <string name="pressure">Давление:</string>
+    <string name="windySpeed">Скорость ветра:</string>
+    <string name="buttontext">обновить</string>
+</resources>
